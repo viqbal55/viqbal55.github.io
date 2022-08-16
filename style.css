@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color:black ;
+  color: red;
+  padding: 20px;
+}
+
+#Car {
+  float: right;
+}
+
+#reviews {
+  clear: both;
+}
+
+#name {
+  color: white
+}
